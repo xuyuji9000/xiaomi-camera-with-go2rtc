@@ -1,3 +1,7 @@
+> ⚠️ **WARNING:** This project has been archived \
+> Due to xiaomi login restriction
+> ![Screenshot](99-reference/Screenshot%202026-06-14%20at%2013.37.44.png)
+
 # Introduction
 
 This repo tries to capture camera stream from 'xiaomi camera 3 3k'.
