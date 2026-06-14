@@ -4,7 +4,11 @@ services:
     container_name: go2rtc
     image: alexxit/go2rtc:latest
     restart: always
-    network_mode: host
+    ports:
+      - "1984:1984" # API & Web UI
+      - "8554:8554" # RTSP
+      - "8555:8555/tcp" # WebRTC TCP
+      - "8555:8555/udp" # WebRTC UDP
     privileged: true
     environment:
       - TZ=Asia/Shanghai
