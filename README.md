@@ -1,4 +1,4 @@
-> ⚠️ **WARNING:** This project has been archived \
+> ⚠️ **WARNING:** This project has been **ARCHIVED** \
 > Due to xiaomi login restriction
 > ![Screenshot](99-reference/Screenshot%202026-06-14%20at%2013.37.44.png)
 
